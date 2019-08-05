@@ -6,9 +6,9 @@ sections:
     icons:
       - icon: fa-cloud
         title: Upload
-      - icon: <i class="fas fa-hammer"></i>
+      - icon: fa-hammer
         title: hammer
-      - icon: <i class="fas fa-toolbox"></i>
+      - icon: fa-toolbox
         title: toolbox
     section_id: one
     title: >-
