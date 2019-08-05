@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - background_style: style1
+  - background_style: style2
     component: Icons
     icons:
       - icon: <i class="fas fa-hammer"></i>
