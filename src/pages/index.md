@@ -29,7 +29,7 @@ sections:
         title: Adipiscing amet sapien
     section_id: two
     spotlights:
-      - image: /images/barn-images-t5yuohw6zro-unsplash.jpg
+      - image: /images/20190805_130606.jpg
         text: >-
           Green River Woodworks wants to help you turn your house into your
           home. Home is where we make memories and where we feel we belong. We
@@ -45,19 +45,66 @@ sections:
           for your next new construction or home-improvement project.
         title: Our Work
       - image: /images/20190805_125318.jpg
-        text: "Custom Cabinets\r\n\nCabinet Repairs\r\n\nWood Working\r\n\nInstallation\r\n\nTrim and Millwork\r\n\nCrown Mold\r\n\nCloset Systems\r\n\nDoor Installation\r\n\nFireplaces and Mantles\r\n\nCustom Furniture\r\n\nBathroom and Kitchen Remodeling\r\n\nSunrooms\r\n\nStairs\r\n\nAnd Much More!\n\nWe will tailor a solution to provide you and your home with exactly what you need. We are committed to ensure that your project is always where it needs to be, and that it is executed in a safe and timely manner.\n\n![](/images/20190805_124955.jpg)\n\n![](/images/20190805_125022.jpg)"
+        text: >-
+          Custom Cabinets
+
+
+          Cabinet Repairs
+
+
+          Wood Working
+
+
+          Installation
+
+
+          Trim and Millwork
+
+
+          Crown Mold
+
+
+          Closet Systems
+
+
+          Door Installation
+
+
+          Fireplaces and Mantles
+
+
+          Custom Furniture
+
+
+          Bathroom and Kitchen Remodeling
+
+
+          Sunrooms
+
+
+          Stairs
+
+
+          And Much More!
+
+
+          We will tailor a solution to provide you and your home with exactly
+          what you need. We are committed to ensure that your project is always
+          where it needs to be, and that it is executed in a safe and timely
+          manner.
         title: What We Do
       - image: /images/20190729_114000.jpg
         text: >-
-          Green River Woodworks was formally established in 2019. Pete
-          Chrzanowski has a wide array of experience with residential and
-          commercial carpentry. Prior to establishing Green River Woodworks, he
-          worked with local carpentry companies and custom builders. Pete has a
-          degree in Fine Art from Greenfield Community College and over 15 years
-          of experience in carpentry and design. Fully insured and licensed, he
-          is your custom carpentry solution. He treats each job with honesty and
-          integrity. Pete has the knowledge and expertise to help his clients
-          select the best custom solution for their home.
+          Green River Woodworks, owned and operated by Pete Chrzanowski, was
+          formally established in 2019.  Pete has a wide array of experience
+          with residential and commercial carpentry. Prior to establishing Green
+          River Woodworks, he worked with local carpentry companies, custom
+          builders, and at UMass. Pete has a degree in Fine Art from Greenfield
+          Community College and over 15 years of experience in carpentry and
+          design. Fully insured and licensed, he is your custom carpentry
+          solution. He treats each job with honesty and integrity. Pete has the
+          knowledge and expertise to help his clients select the best custom
+          solution for their home.
         title: About
     title: Spotlights Section
     type: spotlights
@@ -65,7 +112,7 @@ sections:
     background_style: style4
     component: Cta
     section_id: three
-    subtitle: "Custom Carpentry & Finishing for your home.\n\n\n\nContact us:\n\n\U0001F4F1413-522-0583\n\n\U0001F4E7 pete@greenriverwoodworks.com"
+    subtitle: "Custom Carpentry & Finishing For Your Home\n\nPlease Contact Us:\n\n\U0001F4F1413-522-0583\n\n\U0001F4E7 pete@greenriverwoodworks.com"
     title: Green River Woodworks
     type: cta
 template: home
