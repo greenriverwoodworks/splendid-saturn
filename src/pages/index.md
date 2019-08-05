@@ -4,16 +4,16 @@ sections:
   - background_style: style2
     component: Icons
     icons:
-      - icon: fa-camera-retro
-        title: Shoot
-      - icon: fa-refresh
-        title: Process
       - icon: fa-cloud
         title: Upload
+      - icon: <i class="fas fa-hammer"></i>
+        title: hammer
+      - icon: <i class="fas fa-toolbox"></i>
+        title: toolbox
     section_id: one
     title: >-
-      Let us help you with your custom carpentry needs from cabinetry to
-      millwork to finishing. 
+      Over 15 years of experience in custom carpentry and design. Fully Licensed
+      & Insured. 
     type: icons
   - component: Spotlights
     icons:
