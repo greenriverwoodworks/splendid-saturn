@@ -29,7 +29,7 @@ sections:
         title: Adipiscing amet sapien
     section_id: two
     spotlights:
-      - image: /images/blaz-erzetic-6bifdxtrlck-unsplash.jpg
+      - image: /images/barn-images-t5yuohw6zro-unsplash.jpg
         text: >-
           Green River Woodworks wants to help you turn your house into your
           home. Home is where we make memories and where we feel we belong. We
@@ -44,17 +44,8 @@ sections:
           requirements for every job. Let us help you find the right solution
           for your next new construction or home-improvement project.
         title: Our Work
-      - image: /images/barn-images-t5yuohw6zro-unsplash.jpg
-        text: >-
-
-
-          ![]()
-
-
-          We will tailor a solution to provide you and your home with exactly
-          what you need. We are committed to ensure that your project is always
-          where it needs to be, and that it is executed in a safe and timely
-          manner.
+      - image: /images/20190805_125318.jpg
+        text: "Custom Cabinets\r\n\nCabinet Repairs\r\n\nWood Working\r\n\nInstallation\r\n\nTrim and Millwork\r\n\nCrown Mold\r\n\nCloset Systems\r\n\nDoor Installation\r\n\nFireplaces and Mantles\r\n\nCustom Furniture\r\n\nBathroom and Kitchen Remodeling\r\n\nSunrooms\r\n\nStairs\r\n\nAnd Much More!\n\nWe will tailor a solution to provide you and your home with exactly what you need. We are committed to ensure that your project is always where it needs to be, and that it is executed in a safe and timely manner.\n\n![](/images/20190805_124955.jpg)\n\n![](/images/20190805_125022.jpg)"
         title: What We Do
       - image: /images/20190729_114000.jpg
         text: >-
