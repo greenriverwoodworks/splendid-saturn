@@ -94,15 +94,11 @@ sections:
         title: About
     title: Spotlights Section
     type: spotlights
-  - actions:
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /elements
-    background_style: style2
+  - actions: []
+    background_style: style4
     component: Cta
     section_id: three
-    subtitle: Custom Carpentry & Finishing for your home.
+    subtitle: "Custom Carpentry & Finishing for your home.\n\n\n\nContact us:\n\n\U0001F4F1413-522-0583\n\n\U0001F4E7 pete@greenriverwoodworks.com"
     title: Green River Woodworks
     type: cta
 template: home
