@@ -1,15 +1,12 @@
 social_icons:
-  - title: Facebook
-    icon: fa-facebook
+  - icon: fa-facebook
+    title: Facebook
     url: '#'
-  - title: Twitter
-    icon: fa-twitter
+  - icon: fa-instagram
+    title: Instagram
     url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    url: '#'
-copyright: '&copy; Untitled.'
+copyright: '&copy; Green River Woodworks, 2019.'
 links:
-  - text: Made with Stackbit
+  - new_window: true
+    text: Made with Stackbit
     url: 'https://www.stackbit.com'
-    new_window: true
