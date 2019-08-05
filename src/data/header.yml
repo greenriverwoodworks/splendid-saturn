@@ -3,4 +3,4 @@ subtitle: 'Custom Cabinetry, Millwork & Finishing'
 actions: []
 img:
   path: /images/logo-smaller.jpg
-  phone_border: true
+  phone_border: false
