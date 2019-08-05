@@ -12,8 +12,8 @@ sections:
         title: toolbox
     section_id: one
     title: >-
-      Over 15 years of experience in custom carpentry and design. Fully Licensed
-      & Insured. 
+      With over 15 years of experience in custom carpentry and design, let us
+      help you build something memorable.
     type: icons
   - component: Spotlights
     icons:
