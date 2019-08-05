@@ -12,7 +12,7 @@ sections:
         title: toolbox
     section_id: one
     title: >-
-      With over 15 years of experience in custom carpentry and design, let us
+      With over 15 years of experience in custom carpentry and design let us
       help you build something memorable.
     type: icons
   - component: Spotlights
@@ -29,24 +29,69 @@ sections:
         title: Adipiscing amet sapien
     section_id: two
     spotlights:
-      - image: images/pic01.jpg
+      - image: /images/blaz-erzetic-6bifdxtrlck-unsplash.jpg
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Magna sed ultrices
-      - image: images/pic02.jpg
+          Green River Woodworks wants to help you turn your house into your
+          home. Home is where we make memories and where we feel we belong. We
+          are always committed to quality, creativity, and excellence. Your
+          project will benefit from the experience of a tradesman and the
+          passion and attention to detail of an artisan. We do what we know and
+          love and you can see it in the final product. 
+
+
+          With years of experience in custom finish carpentry and home
+          improvement, Green River Woodworks understands there are unique
+          requirements for every job. Let us help you find the right solution
+          for your next new construction or home-improvement project.
+        title: Our Work
+      - image: /images/barn-images-t5yuohw6zro-unsplash.jpg
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Ultrices nullam aliquam
-      - image: images/pic03.jpg
+          * Custom Cabinets
+
+          * Cabinet Repairs
+
+          * Wood Working
+
+          * Installation
+
+          * Trim and Millwork
+
+          * Crown Mold
+
+          * Closet Systems
+
+          * Door Installation
+
+          * Fireplaces and Mantles
+
+          * Custom Furniture
+
+          * Bathroom and Kitchen Remodeling
+
+          * Sunrooms
+
+          * Stairs
+
+          * And Much More!
+
+
+          We will tailor a solution to provide you and your home with exactly
+          what you need. We are committed to ensure that your project is always
+          where it needs to be, and that it is executed in a safe and timely
+          manner.
+        title: What We Do
+      - image: /images/20190729_114000.jpg
         text: >-
-          Morbi mattis ornare ornare. Duis quam turpis, gravida at leo elementum
-          elit fusce accumsan dui libero, quis vehicula lectus ultricies eu. In
-          convallis amet leo non sapien iaculis efficitur consequat lorem ipsum.
-        title: Aliquam sed magna
+          Green River Woodworks was formally established in 2019. Pete
+          Chrzanowski has a wide array of experience with residential and
+          commercial carpentry. Prior to establishing Green River Woodworks, he
+          worked with local carpentry companies and custom builders. Pete has a
+          degree in Fine Art from Greenfield Community College and over 15 years
+          of experience in carpentry and design. Fully insured and licensed, he
+          is your custom carpentry solution. He treats each job with honesty and
+          integrity. Pete has the knowledge and expertise to help his clients
+          select the best custom solution for their home.
+        title: About
     title: Spotlights Section
     type: spotlights
   - actions:
