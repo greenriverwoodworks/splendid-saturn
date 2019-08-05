@@ -3,4 +3,4 @@ subtitle: Green River Woodworks
 actions: []
 img:
   path: /images/logo-smaller.jpg
-  phone_border: false
+  phone_border: true
