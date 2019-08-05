@@ -46,33 +46,9 @@ sections:
         title: Our Work
       - image: /images/barn-images-t5yuohw6zro-unsplash.jpg
         text: >-
-          * Custom Cabinets
 
-          * Cabinet Repairs
 
-          * Wood Working
-
-          * Installation
-
-          * Trim and Millwork
-
-          * Crown Mold
-
-          * Closet Systems
-
-          * Door Installation
-
-          * Fireplaces and Mantles
-
-          * Custom Furniture
-
-          * Bathroom and Kitchen Remodeling
-
-          * Sunrooms
-
-          * Stairs
-
-          * And Much More!
+          ![]()
 
 
           We will tailor a solution to provide you and your home with exactly
